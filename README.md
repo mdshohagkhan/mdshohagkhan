@@ -11,6 +11,19 @@ I enjoy solving real-world problems through code and am constantly learning to i
 
 Skills: 🧠 Technical Skills 🖥️ Frontend Development HTML5, CSS3, JavaScript  Angular, React  Bootstrap, Tailwind CSS  🔧 Backend Development C#, ASP.NET Core, MVC Core  Web API (RESTful Services)  ADO.NET, Entity Framework  Node.js  🗄️ Database SQL Server  LINQ  Stored Procedures  🛠️ Tools & Platforms Visual Studio, VS Code  Git, GitHub  Postman, Swagger  Microsoft MAUI (for cross-platform app development)
 
+🔧 Other Skills
+✅ Object-Oriented Programming (OOP)
+
+✅ Repository Pattern, Factory Pattern
+
+✅ Authentication & Authorization
+
+✅ Session Management
+
+✅ Report Generation
+
+✅ Clean Architecture Practices
+
 - 🔭 I’m currently working on Star Computer System Limited 
 - 🌱 I’m currently learning Angular,ReAct and MAUI 
 - 👯 I’m looking to collaborate on github 
