@@ -3,9 +3,10 @@
 <h1 align="center">Hi 👋, I'm Shohag Miah</h1>
 <h3 align="center">Full-Stack .NET Developer | ASP.NET Core | React | Angular | MAUI | SQL</h3>
 
-<p align="left">
-  <img src="https://t4.ftcdn.net/jpg/01/37/74/23/240_F_137742300_lx7wTUbxRXMv86wJyeJ1CKZpA5jEVK57.jpg" alt="ASP.NET banner" width="500"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="ASP.NET Logo" width="300" />
 </p>
+
 
 
 
