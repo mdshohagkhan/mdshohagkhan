@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋,    I'm Shohag Miah 🙋‍♂️
-#### ### Full Stack .NET Developer | .NET • Angular • SQL
+#### ### Full Stack .NET Developer | .NET .React • Angular • SQL
 ![### Full Stack .NET Developer | .NET • Angular • SQL](https://media.licdn.com/dms/image/v2/D4E16AQHE346Q6xvWGQ/profile-displaybackgroundimage-shrink_350_1400/B4EZdVipWaHIAY-/0/1749486836250?e=1755129600&v=beta&t=-kVGaBfBei2nJXMOO9v-vCm5BBv2u6qhzeAcvDRb8eY)
 
 I am a .NET developer with a strong passion for modern web technologies.  
