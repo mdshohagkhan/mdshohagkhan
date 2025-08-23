@@ -1,47 +1,35 @@
+<h1 align="center">Hi 👋, I'm Shohag Miah</h1>
+<h3 align="center">Full-Stack .NET Developer | ASP.NET Core | React | Angular | MAUI | SQL</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshohagkhan&label=Profile%20views&color=0e75b6&style=flat" alt="mdshohagkhan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshohagkhan" alt="mdshohagkhan" /></a> </p>
+
+- 🌱 I’m currently learning **Angular, React, and .NET MAUI**
+
+- 🤝 I’m looking for help with **Implementing Clean Architecture in large-scale apps**
+
+- 👨‍💻 All of my projects are available at [https://github.com/mdshohagkhan](https://github.com/mdshohagkhan)
+
+- 💬 Ask me about **ASP.NET Core, Web API, Entity Framework, Angular,React**
+
+- 📫 How to reach me **devshohag3@gmail.com**
+
+- ⚡ Fun fact **I can turn ☕ coffee into clean code!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/md. shohag miah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. shohag miah" height="30" width="40" /></a>
+<a href="https://fb.com/md.shohag.khan.381497" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.shohag.khan.381497" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
-### Hi there 👋,    I'm Shohag Miah 🙋‍♂️
-#### ### Full Stack .NET Developer | .NET .React • Angular • SQL
-![### Full Stack .NET Developer | .NET • Angular • SQL](https://media.licdn.com/dms/image/v2/D4E16AQHE346Q6xvWGQ/profile-displaybackgroundimage-shrink_350_1400/B4EZdVipWaHIAY-/0/1749486836250?e=1755129600&v=beta&t=-kVGaBfBei2nJXMOO9v-vCm5BBv2u6qhzeAcvDRb8eY)
 
-I am a .NET developer with a strong passion for modern web technologies.  
-Currently focused on building cross-platform applications using ASP.NET Core, Angular, and React.  
-I enjoy solving real-world problems through code and am constantly learning to improve my skills and deliver high-quality software.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshohagkhan&show_icons=true&locale=en&layout=compact" alt="mdshohagkhan" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshohagkhan&show_icons=true&locale=en" alt="mdshohagkhan" /></p>
 
-Skills: 🧠 Technical Skills 🖥️ Frontend Development HTML5, CSS3, JavaScript  Angular, React  Bootstrap, Tailwind CSS  🔧 Backend Development C#, ASP.NET Core, MVC Core  Web API (RESTful Services)  ADO.NET, Entity Framework  Node.js  🗄️ Database SQL Server  LINQ  Stored Procedures  🛠️ Tools & Platforms Visual Studio, VS Code  Git, GitHub  Postman, Swagger  Microsoft MAUI (for cross-platform app development)
-
-🔧 Other Skills
-✅ Object-Oriented Programming (OOP)
-
-✅ Repository Pattern, Factory Pattern
-
-✅ Authentication & Authorization
-
-✅ Session Management
-
-✅ Report Generation
-
-✅ Clean Architecture Practices
-
-- 🔭 I’m currently working on Star Computer System Limited 
-- 🌱 I’m currently learning Angular,ReAct and MAUI 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web Development 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdshohagkhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shohagmiah/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/md.shohag.khan.381497)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdshohagkhan)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshohagkhan)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdshohagkhan&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/mdshohagkhan)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mdshohagkhan)  
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshohagkhan&" alt="mdshohagkhan" /></p>
