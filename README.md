@@ -54,6 +54,7 @@ I'm a passionate and detail-oriented **Full-Stack Developer** based in **Dhaka, 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdshohagkhan)](https://github.com/ryo-ma/github-profile-trophy)
 
+
 ![GitHub metrics](https://metrics.lecoq.io/mdshohagkhan)  
 
 
@@ -70,3 +71,9 @@ I'm a passionate and detail-oriented **Full-Stack Developer** based in **Dhaka, 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshohagkhan&show_icons=true&locale=en" alt="mdshohagkhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshohagkhan&" alt="mdshohagkhan" /></p>
+
+
+<br clear="both">
+
+![Snake animation](https://raw.githubusercontent.com/mdshohagkhan/mdshohagkhan/output/github-contribution-grid-snake.svg)
+
