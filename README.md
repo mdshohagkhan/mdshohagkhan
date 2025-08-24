@@ -4,8 +4,9 @@
 <h3 align="center">Full-Stack .NET Developer | ASP.NET Core | React | Angular | MAUI | SQL</h3>
 
 <p align="center">
-  <img src="https://d8it4huxumps7.cloudfront.net/lambda-pdfs/opportunity-bannerImages/1677132539.png" alt="Opportunity Banner" width="100%" style="max-height:100px;" />
+  <img src="https://d8it4huxumps7.cloudfront.net/lambda-pdfs/opportunity-bannerImages/1677132539.png" alt="Opportunity Banner" width="100%" height="220px" style="object-fit: cover; border-radius: 8px;" />
 </p>
+
 
 
 
