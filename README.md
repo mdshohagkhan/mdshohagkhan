@@ -4,8 +4,12 @@
 <h3 align="center">Full-Stack .NET Developer | ASP.NET Core | React | Angular | MAUI | SQL</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="ASP.NET Logo" width="300" />
+  <img src="https://t3.ftcdn.net/jpg/06/03/27/02/240_F_603270285_nP1pFSmq0TwMCHJfdJe8zTGL4VkduZFM.jpg" alt="ASP.NET Visual" width="100%" />
 </p>
+
+
+
+
 
 
 
