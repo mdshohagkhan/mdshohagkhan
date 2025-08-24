@@ -73,7 +73,6 @@ I'm a passionate and detail-oriented **Full-Stack Developer** based in **Dhaka, 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshohagkhan&" alt="mdshohagkhan" /></p>
 
 
-<br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/mdshohagkhan/mdshohagkhan/output/github-contribution-grid-snake.svg)
+
 
