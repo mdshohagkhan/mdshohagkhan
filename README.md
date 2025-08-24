@@ -24,7 +24,7 @@
 
 I'm a passionate and detail-oriented **Full-Stack Developer** based in **Dhaka, Bangladesh**, with experience in building responsive and scalable web applications using **ASP.NET Core**, **React**, and **Angular**. I thrive on turning ideas into real-world applications and enjoy working across both frontend and backend stacks.
 
-- 🔭 Currently working as an **Intern ASP.NET Developer** at Star Computer Systems Ltd.
+- 🔭 Currently working as an ** ASP.NET Developer** at Star Computer Systems Ltd.
 - 🌱 Actively learning **.NET MAUI**, **Clean Architecture**, and **Microservices**
 - 👯 I’m looking to collaborate on **Enterprise-Grade .NET Projects**
 - 💬 Ask me about anything in **ASP.NET Core, Entity Framework, SQL, Angular, or React**
