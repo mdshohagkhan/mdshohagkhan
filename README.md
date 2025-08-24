@@ -4,8 +4,10 @@
 <h3 align="center">Full-Stack .NET Developer | ASP.NET Core | React | Angular | MAUI | SQL</h3>
 
 <p align="center">
-  <img src="https://t3.ftcdn.net/jpg/06/03/27/02/240_F_603270285_nP1pFSmq0TwMCHJfdJe8zTGL4VkduZFM.jpg" alt="ASP.NET Visual" width="100%" />
+  <img src="https://www.synapseindia.com/assets_newwebsite/images/tc_dotnet_banner.jpg" alt=".NET Banner" width="100%" height="300px" />
 </p>
+
+
 
 
 
