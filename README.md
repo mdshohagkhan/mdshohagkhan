@@ -4,8 +4,10 @@
 <h3 align="center">Full-Stack .NET Developer | ASP.NET Core | React | Angular | MAUI | SQL</h3>
 
 <p align="center">
-  <img src="https://img-c.udemycdn.com/course/750x422/2842536_694c.jpg" alt="Udemy Banner" width="100%" height="300px" style="object-fit: cover; border-radius: 10px;" />
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/353123988/original/69f91c17cc1ba8a3790f6b5604186543f16a44ed/be-your-backend-developer-full-stack-developer-nodejs-reactjs-typescript.png" alt="Full Stack Web Development Banner" width="100%" height="320px" style="object-fit: cover; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
 </p>
+
+
 
 
 
