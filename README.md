@@ -51,41 +51,16 @@ I'm a passionate and detail-oriented **Full-Stack Developer** based in **Dhaka, 
 
 ## 🧩 Core Competencies
 
-✔️ **Desktop Application Development**  
-  • Building Windows desktop applications using WinForms & WPF  
-  • Custom UI components, event handling, and responsive layout  
+✅ **Desktop Application Development**  
+✅ **Web Application Development**  
+✅ **Mobile Application Development (MAUI)**  
+✅ **Web API Development**  
+✅ **Client-Side Development** *(HTML, Angular, React)*  
+✅ **Component-Based Development**  
+✅ **RESTful Development**  
+✅ **Single Page Application (SPA) Development**  
+✅ **Master-Detail UI Implementation**
 
-✔️ **Web Application Development**  
-  • Full-stack development with ASP.NET Core (MVC, Razor Pages)  
-  • Integration of REST APIs and dynamic frontend interfaces  
-
-✔️ **Mobile Application Development (MAUI)**  
-  • Cross-platform mobile apps using .NET MAUI  
-  • UI/UX design and device-specific feature integration  
-
-✔️ **Web API Development**  
-  • Creating secure and scalable RESTful APIs using ASP.NET Core  
-  • Authentication with JWT and role-based access control (RBAC)  
-
-✔️ **Client-Side Development** *(HTML, Angular, React)*  
-  • Dynamic and interactive UIs using Angular, React  
-  • Responsive design using Bootstrap, Tailwind CSS  
-
-✔️ **Component-Based Development**  
-  • Modular frontend development using reusable components  
-  • State management and lifecycle methods (React Hooks, Angular Services)  
-
-✔️ **RESTful Development**  
-  • API-first architecture following REST standards  
-  • Efficient data handling with JSON and HTTP methods  
-
-✔️ **Single Page Application (SPA) Development**  
-  • Routing and navigation in SPAs using Angular Router / React Router  
-  • Optimized load performance and smooth user experience  
-
-✔️ **Master-Detail UI Implementation**  
-  • Nested views and data-binding between parent-child entities  
-  • CRUD operations with contextual display and interaction  
 
 
 
