@@ -38,13 +38,25 @@ I'm a passionate and detail-oriented **Full-Stack Developer** based in **Dhaka, 
 - 📫 Reach me at **devshohag3@gmail.com**
 - ⚡ Fun fact: I can turn ☕ coffee into clean, maintainable code!
 
-✅ My Tech Stack
-| 💻 Frontend                      | 🛠️ Backend & API              | 🗄️ Database                        | ⚙️ Tools & Platforms                | 🧠 Concepts & Architecture  |
-| -------------------------------- | ------------------------------ | ----------------------------------- | ----------------------------------- | --------------------------- |
-| HTML5, CSS3, Bootstrap, Tailwind | C#, ASP.NET Core, MVC, Web API | SQL Server, PostgreSQL *(optional)* | Visual Studio, VS Code, Git, GitHub | OOP, SOLID Principles       |
-| JavaScript, TypeScript           | Entity Framework Core, ADO.NET |                                     | Postman, Swagger, Docker *(basic)*  | Clean Architecture          |
-| Angular, React                   |                                |                                     | .NET MAUI                           | JWT, RBAC, Authentication   |
-|                                  |                                |                                     |                                     | Reports, Session Management |
+✅ My Tech Stack & Competencies
+💻 Frontend	🛠️ Backend & API	🗄️ Database	⚙️ Tools & Platforms	🧠 Concepts & Architecture
+HTML5, CSS3, Bootstrap, Tailwind CSS	C#, ASP.NET Core (MVC & Web API)	MS SQL Server, PostgreSQL (optional)	Visual Studio, VS Code, Git, GitHub, Postman	Object-Oriented Programming (OOP)
+JavaScript (ES6+), TypeScript	Entity Framework Core, ADO.NET	Stored Procedures, Views	Swagger, Docker (Basic)	SOLID Principles
+Angular, React, jQuery, AJAX	SignalR, Razor Pages, MAUI	LINQ, SQL Joins, Optimization	.NET MAUI, Crystal Reports	Clean Architecture, Layered Pattern
+Responsive UI Design	RESTful API, Authentication (JWT)	Database Design & Indexing	Figma, Email Communication	RBAC, Session Management, Reporting
+
+
+🧩 Core Competencies
+
+✔️ Desktop Application Development
+✔️ Web Application Development
+✔️ Mobile Application Development (MAUI)
+✔️ Web API Development
+✔️ Client-Side Development (HTML, Angular, React)
+✔️ Component-Based Development
+✔️ RESTful Development
+✔️ Single Page Application (SPA) Development
+✔️ Master-Detail UI Implementation
 
 
 
