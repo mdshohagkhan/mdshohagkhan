@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shohag Miah</h1>
-<h3 align="center">Full-Stack .NET Developer | ASP.NET Core | React(v19+) | Angular(v20) | MAUI | SQL</h3>
+<h3 align="center">Full-Stack .NET Developer | ASP.NET Core(.NET 8) | React(v19+) | Angular(v20) | MAUI | SQL</h3>
 
 <p align="center">
   <a href="https://img-c.udemycdn.com/course/750x422/2842536_694c.jpg" target="_blank">
@@ -34,7 +34,7 @@ I'm a passionate and detail-oriented **Full-Stack Developer** based in **Dhaka, 
 - 🔭 Currently working as an ** ASP.NET Developer** at Star Computer Systems Ltd.
 - 🌱 Actively learning **.NET MAUI**, **Clean Architecture**, and **Microservices**
 - 👯 I’m looking to collaborate on **Enterprise-Grade .NET Projects**
-- 💬 Ask me about anything in **ASP.NET Core, Entity Framework, SQL, Angular, or React**
+- 💬 Ask me about anything in **ASP.NET Core(.NET 8), Entity Framework, SQL, Angular(v20), or React(v19+)**
 - 📫 Reach me at **devshohag3@gmail.com**
 - ⚡ Fun fact: I can turn ☕ coffee into clean, maintainable code!
 
@@ -42,7 +42,7 @@ I'm a passionate and detail-oriented **Full-Stack Developer** based in **Dhaka, 
 
 | 💻 Frontend                          | 🛠️ Backend & API                     | 🗄️ Database                          | ⚙️ Tools & Platforms                                 | 🧠 Concepts & Architecture              |
 |-------------------------------------|--------------------------------------|--------------------------------------|------------------------------------------------------|----------------------------------------|
-| HTML5, CSS3, Bootstrap, Tailwind CSS| C#, ASP.NET Core (MVC & Web API)    | MS SQL Server, PostgreSQL *(optional)* | Visual Studio, VS Code, Git, GitHub, Postman        | Object-Oriented Programming (OOP)      |
+| HTML5, CSS3, Bootstrap, Tailwind CSS| C#, ASP.NET Core (.NET 8- MVC & Web API)    | MS SQL Server, PostgreSQL *(optional)* | Visual Studio(2022), VS Code, Git, GitHub, Postman        | Object-Oriented Programming (OOP)      |
 | JavaScript (ES6+), TypeScript       | Entity Framework Core, ADO.NET       | Stored Procedures, Views             | Swagger, Docker *(Basic)*                           | SOLID Principles                       |
 | Angular(v20), React(v19+), jQuery, AJAX        | SignalR, Razor Pages, MAUI           | LINQ, SQL Joins, Optimization        | .NET MAUI, Crystal Reports                          | Clean Architecture, Layered Pattern    |
 | Responsive UI Design                | RESTful API, Authentication (JWT)    | Database Design & Indexing           | Figma, Email Communication                          | RBAC, Session Management, Reporting    |
@@ -55,7 +55,7 @@ I'm a passionate and detail-oriented **Full-Stack Developer** based in **Dhaka, 
 ✅ **Web Application Development**  
 ✅ **Mobile Application Development (MAUI)**  
 ✅ **Web API Development**  
-✅ **Client-Side Development** *(HTML, Angular, React)*  
+✅ **Client-Side Development** *(HTML, Angular(v20), React(v19+))*  
 ✅ **Component-Based Development**  
 ✅ **RESTful Development**  
 ✅ **Single Page Application (SPA) Development**  
