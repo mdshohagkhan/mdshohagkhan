@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shohag Miah</h1>
-<h3 align="center">Full-Stack .NET Developer | ASP.NET Core | React | Angular | MAUI | SQL</h3>
+<h3 align="center">Full-Stack .NET Developer | ASP.NET Core | React(v19+) | Angular(v20) | MAUI | SQL</h3>
 
 <p align="center">
   <a href="https://img-c.udemycdn.com/course/750x422/2842536_694c.jpg" target="_blank">
@@ -44,7 +44,7 @@ I'm a passionate and detail-oriented **Full-Stack Developer** based in **Dhaka, 
 |-------------------------------------|--------------------------------------|--------------------------------------|------------------------------------------------------|----------------------------------------|
 | HTML5, CSS3, Bootstrap, Tailwind CSS| C#, ASP.NET Core (MVC & Web API)    | MS SQL Server, PostgreSQL *(optional)* | Visual Studio, VS Code, Git, GitHub, Postman        | Object-Oriented Programming (OOP)      |
 | JavaScript (ES6+), TypeScript       | Entity Framework Core, ADO.NET       | Stored Procedures, Views             | Swagger, Docker *(Basic)*                           | SOLID Principles                       |
-| Angular, React, jQuery, AJAX        | SignalR, Razor Pages, MAUI           | LINQ, SQL Joins, Optimization        | .NET MAUI, Crystal Reports                          | Clean Architecture, Layered Pattern    |
+| Angular(v20), React(v19+), jQuery, AJAX        | SignalR, Razor Pages, MAUI           | LINQ, SQL Joins, Optimization        | .NET MAUI, Crystal Reports                          | Clean Architecture, Layered Pattern    |
 | Responsive UI Design                | RESTful API, Authentication (JWT)    | Database Design & Indexing           | Figma, Email Communication                          | RBAC, Session Management, Reporting    |
 
 
